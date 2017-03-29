@@ -1,6 +1,6 @@
 {
   "name": "handlebars-cloudinary",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "handlebars helper to generate cloudinary urls",
   "main": "dist/index.js",
   "scripts": {
